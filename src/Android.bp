@@ -1,0 +1,8 @@
+cc_library_shared {
+    name: "libbson",
+    srcs: [
+        "bson.c",
+        "numbers.c",
+    ],
+    cflags: ["-DMONGO_HAVE_STDINT"],
+}
