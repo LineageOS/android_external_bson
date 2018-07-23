@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5c486b60_35a4a7ae",
+        "filename": "Android.bp",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 11883
+      },
+      "writtenOn": "2018-07-23T17:19:27Z",
+      "side": 1,
+      "message": "uber dirs",
+      "revId": "06b26ec888dcafe20463b059aacc855556aa2f26",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": true
+    }
+  ]
+}
