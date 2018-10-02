@@ -1,0 +1,9 @@
+cc_library_shared {
+    name: "libbson",
+    vendor_available: true,
+    srcs: [
+        "bson.c",
+        "numbers.c",
+    ],
+    cflags: ["-DMONGO_HAVE_STDINT"],
+}
